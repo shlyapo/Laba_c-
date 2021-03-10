@@ -1,0 +1,13 @@
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\bin\Debug\netcoreapp3.1\lab_1_gallows.exe
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\bin\Debug\netcoreapp3.1\lab_1_gallows.deps.json
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\bin\Debug\netcoreapp3.1\lab_1_gallows.runtimeconfig.json
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\bin\Debug\netcoreapp3.1\lab_1_gallows.runtimeconfig.dev.json
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\bin\Debug\netcoreapp3.1\lab_1_gallows.dll
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\bin\Debug\netcoreapp3.1\lab_1_gallows.pdb
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\obj\Debug\netcoreapp3.1\lab_1_gallows.csprojAssemblyReference.cache
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\obj\Debug\netcoreapp3.1\lab_1_gallows.AssemblyInfoInputs.cache
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\obj\Debug\netcoreapp3.1\lab_1_gallows.AssemblyInfo.cs
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\obj\Debug\netcoreapp3.1\lab_1_gallows.csproj.CoreCompileInputs.cache
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\obj\Debug\netcoreapp3.1\lab_1_gallows.dll
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\obj\Debug\netcoreapp3.1\lab_1_gallows.pdb
+C:\Users\sheks\source\repos\lab_1_gallows\lab_1_gallows\obj\Debug\netcoreapp3.1\lab_1_gallows.genruntimeconfig.cache

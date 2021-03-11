@@ -1,0 +1,13 @@
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\bin\Debug\netcoreapp3.1\laba_2_stroka.exe
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\bin\Debug\netcoreapp3.1\laba_2_stroka.deps.json
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\bin\Debug\netcoreapp3.1\laba_2_stroka.runtimeconfig.json
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\bin\Debug\netcoreapp3.1\laba_2_stroka.runtimeconfig.dev.json
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\bin\Debug\netcoreapp3.1\laba_2_stroka.dll
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\bin\Debug\netcoreapp3.1\laba_2_stroka.pdb
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\obj\Debug\netcoreapp3.1\laba_2_stroka.csprojAssemblyReference.cache
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\obj\Debug\netcoreapp3.1\laba_2_stroka.AssemblyInfoInputs.cache
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\obj\Debug\netcoreapp3.1\laba_2_stroka.AssemblyInfo.cs
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\obj\Debug\netcoreapp3.1\laba_2_stroka.csproj.CoreCompileInputs.cache
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\obj\Debug\netcoreapp3.1\laba_2_stroka.dll
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\obj\Debug\netcoreapp3.1\laba_2_stroka.pdb
+C:\Users\sheks\source\repos\laba_2_stroka\laba_2_stroka\obj\Debug\netcoreapp3.1\laba_2_stroka.genruntimeconfig.cache

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stas2\\source\\repos\\instrumental\\instrumental\\instrumental.csproj": {}
+    "C:\\Users\\sheks\\source\\repos\\instrumental\\instrumental\\instrumental.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stas2\\source\\repos\\instrumental\\instrumental\\instrumental.csproj": {
+    "C:\\Users\\sheks\\source\\repos\\instrumental\\instrumental\\instrumental.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stas2\\source\\repos\\instrumental\\instrumental\\instrumental.csproj",
+        "projectUniqueName": "C:\\Users\\sheks\\source\\repos\\instrumental\\instrumental\\instrumental.csproj",
         "projectName": "instrumental",
-        "projectPath": "C:\\Users\\stas2\\source\\repos\\instrumental\\instrumental\\instrumental.csproj",
-        "packagesPath": "C:\\Users\\stas2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stas2\\source\\repos\\instrumental\\instrumental\\obj\\",
+        "projectPath": "C:\\Users\\sheks\\source\\repos\\instrumental\\instrumental\\instrumental.csproj",
+        "packagesPath": "C:\\Users\\sheks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sheks\\source\\repos\\instrumental\\instrumental\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\stas2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sheks\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

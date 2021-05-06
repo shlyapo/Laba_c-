@@ -1,4 +1,13 @@
-C:\Users\stas2\source\repos\instrumental\instrumental\obj\Debug\netcoreapp3.1\instrumental.csprojAssemblyReference.cache
-C:\Users\stas2\source\repos\instrumental\instrumental\obj\Debug\netcoreapp3.1\instrumental.AssemblyInfoInputs.cache
-C:\Users\stas2\source\repos\instrumental\instrumental\obj\Debug\netcoreapp3.1\instrumental.AssemblyInfo.cs
-C:\Users\stas2\source\repos\instrumental\instrumental\obj\Debug\netcoreapp3.1\instrumental.csproj.CoreCompileInputs.cache
+C:\Users\sheks\source\repos\instrumental\instrumental\obj\Debug\netcoreapp3.1\instrumental.csprojAssemblyReference.cache
+C:\Users\sheks\source\repos\instrumental\instrumental\obj\Debug\netcoreapp3.1\instrumental.AssemblyInfoInputs.cache
+C:\Users\sheks\source\repos\instrumental\instrumental\obj\Debug\netcoreapp3.1\instrumental.AssemblyInfo.cs
+C:\Users\sheks\source\repos\instrumental\instrumental\obj\Debug\netcoreapp3.1\instrumental.csproj.CoreCompileInputs.cache
+C:\Users\sheks\source\repos\instrumental\instrumental\bin\Debug\netcoreapp3.1\instrumental.exe
+C:\Users\sheks\source\repos\instrumental\instrumental\bin\Debug\netcoreapp3.1\instrumental.deps.json
+C:\Users\sheks\source\repos\instrumental\instrumental\bin\Debug\netcoreapp3.1\instrumental.runtimeconfig.json
+C:\Users\sheks\source\repos\instrumental\instrumental\bin\Debug\netcoreapp3.1\instrumental.runtimeconfig.dev.json
+C:\Users\sheks\source\repos\instrumental\instrumental\bin\Debug\netcoreapp3.1\instrumental.dll
+C:\Users\sheks\source\repos\instrumental\instrumental\bin\Debug\netcoreapp3.1\instrumental.pdb
+C:\Users\sheks\source\repos\instrumental\instrumental\obj\Debug\netcoreapp3.1\instrumental.dll
+C:\Users\sheks\source\repos\instrumental\instrumental\obj\Debug\netcoreapp3.1\instrumental.pdb
+C:\Users\sheks\source\repos\instrumental\instrumental\obj\Debug\netcoreapp3.1\instrumental.genruntimeconfig.cache

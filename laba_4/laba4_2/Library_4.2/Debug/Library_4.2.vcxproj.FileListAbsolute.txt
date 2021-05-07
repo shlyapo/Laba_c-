@@ -1,0 +1,2 @@
+C:\Users\София\source\c#\Library_4.2\Debug\Library_4.2.dll
+C:\Users\София\source\c#\Library_4.2\Debug\Library_4.2.pdb

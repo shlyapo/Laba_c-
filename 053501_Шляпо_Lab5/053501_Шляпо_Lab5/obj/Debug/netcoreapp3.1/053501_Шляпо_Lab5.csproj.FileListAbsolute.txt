@@ -1,0 +1,13 @@
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\bin\Debug\netcoreapp3.1\053501_Шляпо_Lab5.exe
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\bin\Debug\netcoreapp3.1\053501_Шляпо_Lab5.deps.json
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\bin\Debug\netcoreapp3.1\053501_Шляпо_Lab5.runtimeconfig.json
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\bin\Debug\netcoreapp3.1\053501_Шляпо_Lab5.runtimeconfig.dev.json
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\bin\Debug\netcoreapp3.1\053501_Шляпо_Lab5.dll
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\bin\Debug\netcoreapp3.1\053501_Шляпо_Lab5.pdb
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\obj\Debug\netcoreapp3.1\053501_Шляпо_Lab5.csprojAssemblyReference.cache
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\obj\Debug\netcoreapp3.1\053501_Шляпо_Lab5.AssemblyInfoInputs.cache
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\obj\Debug\netcoreapp3.1\053501_Шляпо_Lab5.AssemblyInfo.cs
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\obj\Debug\netcoreapp3.1\053501_Шляпо_Lab5.csproj.CoreCompileInputs.cache
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\obj\Debug\netcoreapp3.1\053501_Шляпо_Lab5.dll
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\obj\Debug\netcoreapp3.1\053501_Шляпо_Lab5.pdb
+C:\Users\sheks\source\repos\053501_Шляпо_Lab5\053501_Шляпо_Lab5\obj\Debug\netcoreapp3.1\053501_Шляпо_Lab5.genruntimeconfig.cache

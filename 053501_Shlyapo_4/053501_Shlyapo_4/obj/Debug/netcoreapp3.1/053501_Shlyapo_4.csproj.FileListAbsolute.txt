@@ -1,0 +1,13 @@
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\bin\Debug\netcoreapp3.1\053501_Shlyapo_4.exe
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\bin\Debug\netcoreapp3.1\053501_Shlyapo_4.deps.json
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\bin\Debug\netcoreapp3.1\053501_Shlyapo_4.runtimeconfig.json
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\bin\Debug\netcoreapp3.1\053501_Shlyapo_4.runtimeconfig.dev.json
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\bin\Debug\netcoreapp3.1\053501_Shlyapo_4.dll
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\bin\Debug\netcoreapp3.1\053501_Shlyapo_4.pdb
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\obj\Debug\netcoreapp3.1\053501_Shlyapo_4.csprojAssemblyReference.cache
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\obj\Debug\netcoreapp3.1\053501_Shlyapo_4.AssemblyInfoInputs.cache
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\obj\Debug\netcoreapp3.1\053501_Shlyapo_4.AssemblyInfo.cs
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\obj\Debug\netcoreapp3.1\053501_Shlyapo_4.csproj.CoreCompileInputs.cache
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\obj\Debug\netcoreapp3.1\053501_Shlyapo_4.dll
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\obj\Debug\netcoreapp3.1\053501_Shlyapo_4.pdb
+C:\Users\sheks\source\repos\053501_Shlyapo_4\053501_Shlyapo_4\obj\Debug\netcoreapp3.1\053501_Shlyapo_4.genruntimeconfig.cache

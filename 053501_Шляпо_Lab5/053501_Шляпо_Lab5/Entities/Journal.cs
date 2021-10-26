@@ -13,8 +13,7 @@ namespace _053501_Шляпо_Lab5
                 this.name = name;
             }
         }
-
-        MyCustomCollection<DescribeEvent> ListEvents = new MyCustomCollection<DescribeEvent>();
+        List<DescribeEvent> ListEvents = new List<DescribeEvent>();
         public Journal(){}
 
         public void RegistrationEvent(string traf, string name){

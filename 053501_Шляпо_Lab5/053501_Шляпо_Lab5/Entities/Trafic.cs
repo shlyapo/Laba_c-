@@ -6,14 +6,24 @@ namespace _053501_Шляпо_Lab5
 {
     class Trafic
     {
-        public int Value { get; set; }
         public int Cost { get; set; }
-        public string Name { get; set; }
-        public Trafic(int Value, int Cost, string Name)
+        public string NameTr { get; set; }
+        //public string Traf { get; set; }
+        public int SumTr{ get; set; }
+        public Trafic(int Cost, string Name)
         {
             this.Cost = Cost;
-            this.Value = Value;
-            this.Name = Name;
+            this.NameTr = Name;
+            //this.Traf = Name;
+        }
+         //public int SumTraf(int Traf)
+        //{
+            //this.SumTr +=Cost;
+            //return SumTr;
+        //}
+        public override string ToString()
+        {
+            return NameTr;
         }
     }
 }

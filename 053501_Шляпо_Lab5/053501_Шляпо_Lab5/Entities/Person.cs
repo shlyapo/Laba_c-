@@ -7,20 +7,27 @@ namespace _053501_Шляпо_Lab5
     class Person
     {
         public string Name { get; set; }
-        public Trafic Res { get; set; }
-        public int Sum { get; set; }
-        public Person(string Name, Trafic Res, int Sum){
+        //public Trafic Res { get; set; }
+        //public string NameTr { get; set; }
+        public Trafic Traf{ get; set; }
+
+        public int SumT{ get; set; }
+        public Person(string Name, Trafic Traf, int Sum){
             this.Name = Name;
-            this.Res = Res;
-            this.Sum = Sum;
+            this.Traf = Traf;
+            this.SumT = Sum;
         }
         public Person(string Name){
             this.Name = Name;
         }
-        public void Registration(Trafic Res, int Sum){
-            this.Res = Res;
-            this.Sum = Sum;
+        public void Registration(Trafic Traf, int Sum){
 
+            this.Traf = Traf;
+            this.SumT = Sum;
+        }
+        public override string ToString()
+        {
+            return Name;
         }
 
     }

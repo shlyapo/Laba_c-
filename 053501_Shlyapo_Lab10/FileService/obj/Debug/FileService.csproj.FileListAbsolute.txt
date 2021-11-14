@@ -1,0 +1,2 @@
+C:\Users\sheks\source\repos\053501_Shlyapo_Lab10\FileService\obj\Debug\FileService.csproj.CoreCompileInputs.cache
+C:\Users\sheks\source\repos\053501_Shlyapo_Lab10\FileService\obj\Debug\FileService.csprojAssemblyReference.cache
